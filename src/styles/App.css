@@ -1,0 +1,27 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+.search {
+    padding: 50px 50px 0 50px;
+    text-align: center;
+}
+.search input {
+    margin-right: 20px;
+}
+.books-list {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.search-results,
+.my-list {
+    width: 50%;
+    max-width: 500px;
+    border: 1px solid #eee;
+    padding: 0 20px;
+}
+.book-card {
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+}
